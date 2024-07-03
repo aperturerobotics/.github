@@ -1,6 +1,6 @@
 <h3 align="center">
   <a href="https://github.com/aperturerobotics" target="_blank" rel="noopener noreferrer">
-    <img height="120" src="https://github.com/aperturerobotics/.github/blob/3baf7d875b181ba290c3f7aba9eb4db53f7db0b5/images/aperture-logo.png" alt="Aperture Robotics">
+    <img height="100" src="https://github.com/aperturerobotics/.github/blob/3baf7d875b181ba290c3f7aba9eb4db53f7db0b5/images/aperture-logo.png" alt="Aperture Robotics">
   </a>
   <br/>
   &nbsp;
@@ -91,16 +91,17 @@ Lightweight / modified forks of other libraries:
 
 ## 🙋 Support
 
-Please open a [GitHub issue][github-issue] with any top-level questions.
+Please open a [GitHub issue][github-issue] or [email us] with any top-level questions.
 
 ... or feel free to reach out on [Matrix Chat][matrix-chat] or [Discord][discord].
 
-[github-issue]: https://github.com/aperturerobotics/aperturerobotics/issues/new
+[github-issue]: https://github.com/aperturerobotics/.github/issues/new
 [matrix-chat]: https://matrix.to/#/#aperturerobotics:matrix.org
 [discord]: https://discord.gg/KJutMESRsT
+[email us]: mailto:hello@aperture.us
 
 ## 📜 License
 
 Most projects are licensed MIT/Apache-2.0.
 
-See the `LICENSE` file in each repository for details.
+See the `LICENSE` file in each repository.
