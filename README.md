@@ -91,9 +91,9 @@ Lightweight / modified forks of other libraries:
 
 ## 🙋 Support
 
-Please open a [GitHub issue][github-issue] or [email us] with any top-level questions.
+Please open a [GitHub issue][github-issue] or [email us] with any questions.
 
-... or feel free to reach out on [Matrix Chat][matrix-chat] or [Discord][discord].
+Or feel free to reach out on [Matrix Chat][matrix-chat] or [Discord][discord].
 
 [github-issue]: https://github.com/aperturerobotics/.github/issues/new
 [matrix-chat]: https://matrix.to/#/#aperturerobotics:matrix.org
