@@ -81,9 +81,11 @@ Lightweight / modified forks of other libraries:
 - [**fastjson**][fastjson] - Reflection-free json parser and validator
 - [**go-brotli-decoder**][go-brotli-decoder] - Pure Go Brotli decompressor
 - [**go-indexeddb**][go-indexeddb] - Low-level Go driver for IndexedDB in Wasm
+- [**json-iterator-lite**][json-iterator-lite] - Minimal and fast reflection-free json marshal and unmarshal for Go
 
 [cayley]: https://github.com/aperturerobotics/cayley
 [fastjson]: https://github.com/aperturerobotics/fastjson
+[json-iterator-lite]: https://github.com/aperturerobotics/json-iterator-lite
 [flex-layout]: https://github.com/aperturerobotics/flex-layout
 [go-brotli-decoder]: https://github.com/aperturerobotics/go-brotli-decoder
 [go-indexeddb]: https://github.com/aperturerobotics/go-indexeddb
