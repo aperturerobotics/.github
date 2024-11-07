@@ -29,10 +29,8 @@ Get started building an application with the stack with [the project template]!
 - [**ControllerBus**][controllerbus] - Dynamically configurable communicating control loops
 - [**Bifrost**][bifrost] - Cross-platform networking engine with pluggable transports
 
-[common]: https://github.com/aperturerobotics/common
 [controllerbus]: https://github.com/aperturerobotics/controllerbus
 [bifrost]: https://github.com/aperturerobotics/bifrost
-[util]: https://github.com/aperturerobotics/util
 
 ### <img src="https://raw.githubusercontent.com/skiffos/SkiffOS/master/resources/images/skiff-icon.png" alt="SkiffOS logo" width="28" height="28" style="vertical-align: bottom"/> SkiffOS
 
@@ -90,6 +88,8 @@ Lightweight / modified forks of other libraries:
 [go-brotli-decoder]: https://github.com/aperturerobotics/go-brotli-decoder
 [go-indexeddb]: https://github.com/aperturerobotics/go-indexeddb
 [cayleygraph]: https://cayley.io/
+[util]: https://github.com/aperturerobotics/util
+[common]: https://github.com/aperturerobotics/common
 
 ## 🙋 Support
 
