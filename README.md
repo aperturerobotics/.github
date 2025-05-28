@@ -28,9 +28,11 @@ Get started building an application with the stack with [the project template]!
 
 - [**ControllerBus**][controllerbus] - Dynamically configurable communicating control loops
 - [**Bifrost**][bifrost] - Cross-platform networking engine with pluggable transports
+- [**goscript**][goscript] - Transpile Go to TypeScript
 
 [controllerbus]: https://github.com/aperturerobotics/controllerbus
 [bifrost]: https://github.com/aperturerobotics/bifrost
+[goscript]: https://github.com/aperturerobotics/goscript
 
 ### <img src="https://raw.githubusercontent.com/skiffos/SkiffOS/master/resources/images/skiff-icon.png" alt="SkiffOS logo" width="28" height="28" style="vertical-align: bottom"/> SkiffOS
 
