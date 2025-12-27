@@ -29,10 +29,12 @@ Get started building an application with the stack with [the project template]!
 - [**ControllerBus**][controllerbus] - Dynamically configurable communicating control loops
 - [**Bifrost**][bifrost] - Cross-platform networking engine with pluggable transports
 - [**goscript**][goscript] - Transpile Go to TypeScript
+- [**ocpipe**][ocpipe] - Build LLM pipelines with OpenCode and Zod
 
 [controllerbus]: https://github.com/aperturerobotics/controllerbus
 [bifrost]: https://github.com/aperturerobotics/bifrost
 [goscript]: https://github.com/aperturerobotics/goscript
+[ocpipe]: https://github.com/s4wave/ocpipe
 
 ### <img src="https://raw.githubusercontent.com/skiffos/SkiffOS/master/resources/images/skiff-icon.png" alt="SkiffOS logo" width="28" height="28" style="vertical-align: bottom"/> SkiffOS
 
@@ -52,7 +54,7 @@ WebAssembly (wasm) applications.
 
 - [**StaRPC**][starpc] - Protobuf 3 RPC services over any stream multiplexer
 - [**protobuf-es-lite**][protobuf-es-lite] - Lightweight TypeScript protobuf implementation
-- [**protobuf-go-lite**][protobuf-go-lite] - Lightweight Go protobuf implementation 
+- [**protobuf-go-lite**][protobuf-go-lite] - Lightweight Go protobuf implementation
 - [**protobuf-project**][protobuf-project] - Template repository for projects using protobufs
 
 [starpc]: https://github.com/aperturerobotics/starpc
