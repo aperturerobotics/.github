@@ -69,12 +69,26 @@ base proto2 and proto3 spec including RPCs to simplify the implementation.
 [protobuf-es]: https://github.com/bufbuild/protobuf-es
 [protobuf-go]: https://github.com/protocolbuffers/protobuf-go
 
+### 🔌 QuickJS WASI Reactor
+
+Run [QuickJS-NG] JavaScript engine in Go and TypeScript using the WASI reactor model for re-entrant execution:
+
+- [**quickjs**][quickjs] - QuickJS-NG fork with WASI reactor build target
+- [**go-quickjs-wasi**][go-quickjs-wasi] - Go module with embedded QuickJS-NG WASI command binary
+- [**go-quickjs-wasi-reactor**][go-quickjs-wasi-reactor] - Go module with embedded QuickJS-NG WASI reactor binary
+- [**js-quickjs-wasi-reactor**][js-quickjs-wasi-reactor] - Run QuickJS-NG within JavaScript with WASI reactor model
+
+[QuickJS-NG]: https://github.com/quickjs-ng/quickjs
+[quickjs]: https://github.com/paralin/quickjs
+[go-quickjs-wasi]: https://github.com/paralin/go-quickjs-wasi
+
 ### 📚 Libraries
 
 Common Go/TypeScript libraries:
 
 - [**Common**][common] - Common project configuration files and Protobuf toolchain.
 - [**Util**][util] - Go utilities for easy concurrent programming.
+- [**go-kvfile**][go-kvfile] - File format for storing a compressed key/value store
 
 Lightweight / modified forks of other libraries:
 
@@ -83,10 +97,7 @@ Lightweight / modified forks of other libraries:
 - [**fastjson**][fastjson] - Reflection-free json parser and validator
 - [**go-brotli-decoder**][go-brotli-decoder] - Pure Go Brotli decompressor
 - [**go-indexeddb**][go-indexeddb] - Low-level Go driver for IndexedDB in Wasm
-- [**go-kvfile**][go-kvfile] - File format for storing a compressed key/value store
-- [**go-quickjs-wasi-reactor**][go-quickjs-wasi-reactor] - Go module with embedded QuickJS WASI binary
 - [**goprotowrap**][goprotowrap] - Package-at-a-time wrapper for protoc
-- [**js-quickjs-wasi-reactor**][js-quickjs-wasi-reactor] - Run QuickJS within JavaScript with WASI
 - [**json-iterator-lite**][json-iterator-lite] - Minimal and fast reflection-free json marshal and unmarshal for Go
 
 [cayley]: https://github.com/aperturerobotics/cayley
