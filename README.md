@@ -83,14 +83,22 @@ Lightweight / modified forks of other libraries:
 - [**fastjson**][fastjson] - Reflection-free json parser and validator
 - [**go-brotli-decoder**][go-brotli-decoder] - Pure Go Brotli decompressor
 - [**go-indexeddb**][go-indexeddb] - Low-level Go driver for IndexedDB in Wasm
+- [**go-kvfile**][go-kvfile] - File format for storing a compressed key/value store
+- [**go-quickjs-wasi-reactor**][go-quickjs-wasi-reactor] - Go module with embedded QuickJS WASI binary
+- [**goprotowrap**][goprotowrap] - Package-at-a-time wrapper for protoc
+- [**js-quickjs-wasi-reactor**][js-quickjs-wasi-reactor] - Run QuickJS within JavaScript with WASI
 - [**json-iterator-lite**][json-iterator-lite] - Minimal and fast reflection-free json marshal and unmarshal for Go
 
 [cayley]: https://github.com/aperturerobotics/cayley
 [fastjson]: https://github.com/aperturerobotics/fastjson
-[json-iterator-lite]: https://github.com/aperturerobotics/json-iterator-lite
 [flex-layout]: https://github.com/aperturerobotics/flex-layout
 [go-brotli-decoder]: https://github.com/aperturerobotics/go-brotli-decoder
 [go-indexeddb]: https://github.com/aperturerobotics/go-indexeddb
+[go-kvfile]: https://github.com/aperturerobotics/go-kvfile
+[go-quickjs-wasi-reactor]: https://github.com/aperturerobotics/go-quickjs-wasi-reactor
+[goprotowrap]: https://github.com/aperturerobotics/goprotowrap
+[js-quickjs-wasi-reactor]: https://github.com/aperturerobotics/js-quickjs-wasi-reactor
+[json-iterator-lite]: https://github.com/aperturerobotics/json-iterator-lite
 [cayleygraph]: https://cayley.io/
 [util]: https://github.com/aperturerobotics/util
 [common]: https://github.com/aperturerobotics/common
