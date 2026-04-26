@@ -135,10 +135,9 @@ Lightweight / modified forks of other libraries:
 
 Please open a [GitHub issue][github-issue] or [email us] with any questions.
 
-Or feel free to reach out on [Matrix Chat][matrix-chat] or [Discord][discord].
+Or feel free to reach out on [Discord][discord].
 
 [github-issue]: https://github.com/aperturerobotics/.github/issues/new
-[matrix-chat]: https://matrix.to/#/#aperturerobotics:matrix.org
 [discord]: https://discord.gg/KJutMESRsT
 [email us]: mailto:hello@aperture.us
 
