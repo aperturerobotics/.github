@@ -18,9 +18,26 @@
   </a>
 </h3>
 
+## 🚀 [Spacewave][spacewave]
+
+**Self-host anything in the browser.** Local-first apps with optional cloud
+sync, built on the Aperture Robotics stack.
+
+- 🌐 **Local-first** Apps run in the browser against an OPFS-backed object store
+- ☁️ **Optional cloud** Fast cross-device sync and backup on Cloudflare
+- 🦫 **Portable** Same Go code runs as WASM in the browser and natively as a CLI
+- 🧩 **Composable** ObjectTypes, plugins, and packfile-based content addressing
+
+[**Get started with Spacewave →**][spacewave]
+[**Grab your copy of the code →**][spacewave-code]
+
+[spacewave]: https://spacewave.app
+[spacewave-code]: https://github.com/s4wave/spacewave
+
 ## 🏗️ Projects
 
-Get started building an application with the stack with [the project template]!
+Spacewave is built on the App Stack below. Get started building your own
+application on the stack with [the project template]!
 
 [the project template]: https://github.com/aperturerobotics/template
 
